@@ -69,7 +69,7 @@ services:
 
 ## for init zookeeper data, you need update this file.
 ##
-## author: felix zhang https://github.com/cnscud/  2021.8.22
+## author: Felix Zhang<https://github.com/cnscud/>  2021.8.22
 ##
 ## please make sure the file 755
 ##

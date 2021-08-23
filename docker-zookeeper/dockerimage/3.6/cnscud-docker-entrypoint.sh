@@ -1,6 +1,6 @@
 #!/bin/bash
 ## script for support import data with zookeeper
-## author: felix zhang 2021.8.22
+## author: Felix Zhang 2021.8.22
 ## please make sure the file 755
 
 # set -e
