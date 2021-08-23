@@ -1,4 +1,4 @@
-FROM zookeeper:3.6
+FROM zookeeper:3.7
 
 ##
 ## docker image for zookeeper with init data feature.
