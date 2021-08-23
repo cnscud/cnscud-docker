@@ -52,7 +52,7 @@ services:
     hostname: cnscud-sample-zk1.cnscud.com
 ```
 
-你可以在  samples/docker-compose1 目录下发现所需的所有问题.
+你可以在  samples/docker-compose1 目录下发现所需的所有文件.
 
 
 ## 配置
