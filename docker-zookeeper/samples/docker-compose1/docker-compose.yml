@@ -1,0 +1,17 @@
+version: '3'
+services:
+  cnscud-zookeeper:
+    image: cnscud/zookeeper:zk3.6-0.1
+    volumes:
+      - ./init.data:/init.data/
+      - ./rundata/data:/data
+      - ./rundata/logs:/datalog
+    container_name: cnscud-sample-zk1
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    ports:
+      - "2181:2181"
+    restart: on-failure
+    ## use the hostname in project
+    hostname: cnscud-sample-zk1.cnscud.com
