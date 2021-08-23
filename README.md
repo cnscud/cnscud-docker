@@ -1,2 +1,5 @@
-# cnscud-docker
-一些docker打包的镜像
+# CNSCUD Docker Repository
+
+
+* Zookeeper: based on official docker, but support import data. (initialize data from file at first time)
+* 
