@@ -8,8 +8,8 @@
 
 # 支持的版本 (如需新版, 可以在此基础上编写, 因为很简单)
 
--	[`3.6`](https://github.com/cnscud/cnscud-docker/blob/main/docker-zookeeper/dockerimage/3.6/Dockerfile)
--	[`3.7`](https://github.com/cnscud/cnscud-docker/blob/main/docker-zookeeper/dockerimage/3.7/Dockerfile)
+-	[`zk3.6-0.1`](https://github.com/cnscud/cnscud-docker/blob/main/docker-zookeeper/dockerimage/3.6/Dockerfile)
+-	[`zk3.7-0.1`](https://github.com/cnscud/cnscud-docker/blob/main/docker-zookeeper/dockerimage/3.7/Dockerfile)
 
 # 相关入口
 
