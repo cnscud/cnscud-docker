@@ -14,7 +14,7 @@
 # 相关入口
 
 - **有问题**:  
-  [https://github.com/31z4/zookeeper-docker/issues](https://github.com/cnscud/cnscud-docker/issues)
+  [https://github.com/cnscud/cnscud-docker/issues](https://github.com/cnscud/cnscud-docker/issues)
 
 - **源码仓库**:  
   [README](https://github.com/cnscud/cnscud-docker/tree/main/docker-zookeeper)

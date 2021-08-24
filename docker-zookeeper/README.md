@@ -14,7 +14,7 @@ A zookeeper Docker imge, based on official docker, but support import data. (ini
 # Quick reference
 
 - **Where to file issues**:  
-     [https://github.com/31z4/zookeeper-docker/issues](https://github.com/cnscud/cnscud-docker/issues)
+     [https://github.com/cnscud/cnscud-docker/issues](https://github.com/cnscud/cnscud-docker/issues)
 
 - **Source of this description**:  
      [README](https://github.com/cnscud/cnscud-docker/tree/main/docker-zookeeper)
