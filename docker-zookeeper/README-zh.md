@@ -11,6 +11,9 @@
 -	[`zk3.6-0.1`](https://github.com/cnscud/cnscud-docker/blob/main/docker-zookeeper/dockerimage/3.6/Dockerfile)
 -	[`zk3.7-0.1`](https://github.com/cnscud/cnscud-docker/blob/main/docker-zookeeper/dockerimage/3.7/Dockerfile)
 
+-	[`zk3.6-0.2` 支持arm64](https://github.com/cnscud/cnscud-docker/blob/main/docker-zookeeper/dockerimage/3.6/Dockerfile)
+-	[`zk3.7-0.2` 支持arm64](https://github.com/cnscud/cnscud-docker/blob/main/docker-zookeeper/dockerimage/3.7/Dockerfile)
+
 # 相关入口
 
 - **有问题**:  
